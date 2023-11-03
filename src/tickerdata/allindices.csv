@@ -1,0 +1,463 @@
+$AMEX International Market Index Adr
+$ADR
+Mkt Con Cyc Amer
+$ADVA
+Advancers AMEX Options
+$ADVAO
+Advancers Boston
+$ADVB
+Advancers CBOE
+$ADVCO
+Advancers Midwest
+$ADVM
+Advancers NYSE
+$ADVN
+Advancers Pacific Options
+$ADVPO
+Advancers NASDAQ NMS
+$ADVQE
+Advances NASDAQ Listed Stocks
+$ADVT
+Advancers NASDAQ OTC Bulletin Board
+$ADVUE
+Advancers Philadelphia
+$ADVX
+Advancers Philadelphia Options
+$ADVXO
+ISE Spot AUD USD
+$AUM
+ISE FX Australian
+$AUX
+NASDAQ Bank Index
+$BANK
+Bloomberg WTI Crude Oil Subindex
+$BCOMCL
+Bloomberg Gold Subindex 3 Month Forw
+$BCOMGC3
+Bloomberg Copper Subindex
+$BCOMHG
+Bloomberg Silver Subindex
+$BCOMSI
+S&P Bank Index Bix
+$BIX
+KBW Bank Index USD KBX
+$BKX
+Block Trades - AMEX)
+$BLKA
+Block Trades - NYSE
+$BLOK
+PHLX Computer Box Maker Index
+$BMX
+ISE FX British Pound
+$BPX
+ISE FX Brazilian Real
+$BRB
+AMEX Biotechnology Index 15 Stocks
+$BTK
+ISE FX Canadian Dollar
+$CDD
+S&P Chemical Index CEX
+$CEX
+Morgan Stanley Consumer Index CMR
+$CMR
+NASDAQ Composite Index
+$COMPX
+Decliners - AMEX
+$DECA
+Decliners - AMEX Options
+$DECAO
+Decliners - Boston Stock Exchange
+$DECB
+Decliners - CBOE
+$DECCO
+Decliners - Midwest
+$DECM
+Decliners - NYSE
+$DECN
+Decliners - Pacific Stock Exchange
+$DECP
+Decliners - Pacific Stock Exchange Options
+$DECPO
+Decliners - NASDAQ NMS
+$DECQE
+Decliners - NASDAQ Listed Stocks
+$DECT
+Decliners - NASDAQ OTC Bulletin Board
+$DECUE
+Decliners - Philadelphia
+$DECX
+Decliners - Philadelphia Options
+$DECXO
+AMEX Drug Index 1/10 Value
+$DGL
+Dow Jones Composite Average™ – Actual Value
+Dow Jones Industrial Average $DJIA
+$DJC
+Dow Jones 30 Industrial Index - Actual Value
+$DJI
+Dow Jones Transportation Index - Actual Value
+$DJT
+Dow Jones Utility Index -Actual Value
+$DJU
+Dow Jones Industrial Average®
+$DJX
+Pharmaceutical Index
+$DRG
+Dow Jones Transportation Average
+$DTX
+Dow Jones Utility Average
+$DUX
+Down Volume - AMEX
+$DVOA
+Down Volume - Boston Stock Exchange
+$DVOB
+Down Volume - CBOE
+$DVOCO
+Down Volume - NYSE Decliners
+$DVOL
+Down Volume - Midwest
+$DVOM
+Down Volume - Pacific Stock Exchange
+$DVOP
+Down Volume - Pacific Stock Exchange Options
+$DVOPO
+Down Volume - NASDAQ NMS Equities
+$DVOQE
+Down Volume - NASDAQ Listed Stocks Decliners
+$DVOT
+Down Volume - NASDAQ OTC Bulletin Board
+$DVOUE
+Down Volume - Philadelphia Stock Exchange
+$DVOX
+Down Volume - Philadelphia Options
+$DVOXO
+Dow Jones U.S. Banks Total Stock Market®
+$DWCBNK
+Dow Jones U.S. Biotechnology Total Stock Market
+$DWCBTC
+Dow Jones U.S. Financials Total Stock Market
+$DWCFIN
+Dow Jones U.S. Health Care Total Stock Market
+$DWCHCR
+Dow Jones U.S. Real Estate Investment Trusts Total Stock Market
+$DWCREI
+Dow Jones U.S. Technology Total Stock Market
+$DWCTEC
+SIG Oil Exploration Index
+$EPX
+ISE FX Euro Index
+$EUI
+ISE Spot EUR USD)
+$EUU
+CBOE Interest Rate 5-Year Index
+$FVX
+ISE Spot GBP USD)
+$GBP
+CBOE Gold Volatility Index
+$GVZ
+S&P Health Care Index
+$HCX
+PHLX Housing Index
+$HGX
+AMEX Hong Kong Option Float Rate Index
+$HKO
+AMEX Hong Kong 30 Index
+$HKX
+NASDAQ OTC Index - Industrials
+$INDS
+NASDAQ OTC Index - Insurance
+$INSR
+CBOE Short Term Interest Rate Comp Index
+$IRX
+Issues Traded - AMEX
+$ISSA
+Issues Traded - AMEX Options
+$ISSAO
+Issues Traded- Boston Stock Exchange
+$ISSB
+Issues Traded - CBOE
+$ISSCO
+Issues Traded - Midwest
+$ISSM
+Issues Traded - Pacific Stock Exchange
+$ISSP
+Issues Traded - Pacific Stock Exchange Options
+$ISSPO
+Issues Traded - NASDAQ NMS Equities
+$ISSQE
+Issues Traded - NASDAQ Listed Stocks
+$ISST
+Issues Traded - NYSE Listed Stocks
+$ISSU
+Issues Traded - NASDAQ OTC Bulletin Board
+$ISSUE
+Issues Traded - Philadelphia Stock Exchange
+$ISSX
+Issues Traded - Philadelphia Options
+$ISSXO
+S&P Insurance Index
+$IUX
+NASDAQ Computer Index
+$IXCO
+NASDAQ Financial 100 Index
+$IXF
+NASDAQ Telecommunications Index
+$IXTC
+AMEX Japan Index
+$JPN
+S&P Midcap 400 FLEX OC Settle
+$MDO
+S&P Midcap 400 FLEX OCHL Settle
+$MIA
+S&P Midcap 400® Index
+$MID
+S&P Midcap 400 FLEX HL Settle
+$MIH
+Mini-NASDAQ 100 Index
+$MNX
+AMEX Morgan Stanley High Tech 35 Index
+$MSH
+AMEX Mexico Index
+$MXY
+ISE Spot NZD USD
+$NDO
+CBOE NASDAQ 100 Index
+$NDX
+NYSE Composite Index
+$NYA
+ISE FX New Zealand
+$NZD
+S&P 100 FLEX Opening Exercise Settle Value
+$OET
+S&P 100 Index
+$OEX
+NADAQ OTC Index - Other Financial
+$OFIN
+PHLX Euro Style Oil Service Sector Index
+$OSX
+CBOE Crude Oil Vol
+$OVX
+NYSE ARCA Technology 100 Index
+$PSE
+ISE FX Mexican Peso
+$PZO
+Russell 2000 Opening Ex. Settle Value
+$RLS
+S&P Retail Index
+$RLX
+CBOE Russell 3000® Index
+$RUA
+CBOE Russell 1000® Index
+$RUI
+CBOE Russell 2000® Index
+$RUT
+Russell 2000 Vol Index
+$RVX
+ISE Swiss Franc Index
+$SFC
+S&P 500 Citigroup Growth Index
+$SGX
+ISE FX Swedish Krona Index
+$SKA
+PHLX Semiconductor Sector Index
+$SOX
+S&P Smallcap 600® Index
+$SML
+S&P 500 Spread - Difference between the near month and the index of the S&P 500.
+$SPS
+S&P 500® Index
+$SPX
+S&P 500 PM-Settled
+$SPXPM
+S&P Barra Value Index
+$SVX
+TICK - AMEX Up/Down Ratio
+$TICA
+TICK - Cincinnati Stock Exchange up/down Ratio
+$TICC
+TICK - CBOE up/down Ratio
+$TICCO
+TICK - NYSE Tick Index
+$TICK
+TICK - PSE Options up/down Ratio
+$TICPO
+TICK - NASDAQ NMS Equities up/down Ratio
+$TICQE
+TICK - NASDAQ Listed Stocks up/down Ratio
+$TICT
+TICK - NASDAQ OTC Bulletin Board up/down Ratio
+$TICUE
+TICK - Philadelphia Stock Exchange up/down Ratio
+$TICX
+TICK - Philadelphia Options up/down Ratio
+$TICXO
+TICK - Dow Jones Composite up/down Ratio
+$TIKC
+TICK - Dow Jones Industrial up/down ratio
+$TIKI
+TICK - Dow Jones Transportation up/down Ratio
+$TIKT
+TICK - Dow Jones Utility up/down Ratio
+$TIKU
+CBOE Interest Rate 10-Year Index
+$TNX
+NASDAQ OTC Transportation Index
+$TRANX
+TRIN - AMEX Short Term Trading Index
+$TRIA
+TRIN - AMEX Options Short Term Trading Index
+$TRIAO
+TRIN - Boston Short Term Trading Index
+$TRIB
+TRIN - CBOE Short Term Trading Index
+$TRICO
+TRIN - Midwest Short Term Trading Index
+$TRIM
+TRIN - NYSE Short Term Trading Index
+$TRIN
+TRIN - PSE Short Term Trading Index
+$TRIP
+TRIN - NASDAQ NMS Short Term Trading Index
+$TRIQE
+TRIN - NASDAQ Listed Short Term Trading Index
+$TRIT
+TRIN - NASDAQ OTC Bulletin Board Short Term Trading Index
+$TRIUE
+TRIN - Philadelphia Short Term Trading Index
+$TRIX
+TRIN - Philadelphia Options Short Term Trading Index
+$TRIXO
+CBOE Interest Rate 30-Year
+$TYX
+Unchanged Issues - AMEX
+$UNCA
+Unchanged Issues - AMEX Options
+$UNCAO
+Unchanged Issues - Boston Stock Exchange
+$UNCB
+Unchanged Issues - CBOE
+$UNCCO
+Unchanged Issues - Midwest
+$UNCM
+Unchanged Issues - NYSE
+$UNCN
+Unchanged Issues - Pacific Stock Exchange
+$UNCP
+Unchanged Issues - PSE Options
+$UNCPO
+Unchanged Issues - NASDAQ NMS Equities
+$UNCQE
+Unchanged Issues - NASDAQ Listed Intermarket
+$UNCT
+Unchanged Issues - NASDAQ OTC Bulletin Board
+$UNCUE
+Unchanged Issues - Philadelphia Stock Exchange
+$UNCX
+Unchanged Issues - Philadelphia Options
+$UNCXO
+Deutsche Bank U.S. Dollar Index Bull
+$USDUPX
+Philadelphia Utility Index Capital-Weight
+$UTY
+Up Volume - AMEX
+$UVOA
+Up Volume - AMEX Options
+$UVOAO
+Up Volume - Boston Stock Exchange
+$UVOB
+Up Volume - CBOE
+$UVOCO
+Up Volume - NYSE
+$UVOL
+Up Volume - Midwest
+$UVOM
+Up Volume - Pacific Stock Exchange
+$UVOP
+Up Volume - PSE Options
+$UVOPO
+Up Volume - NASDAQ NMS Equities
+$UVOQE
+Up Volume - NASDAQ Listed Stocks
+$UVOT
+Up Volume - NASDAQ OTC Bulletin Board
+$UVOUE
+Up Volume - Philadelphia Stock Exchange
+$UVOX
+Up Volume - Philadelphia Options
+$UVOXO
+CBOE Volatility Index®
+$VIX
+Volume - AMEX
+$VOLA
+Volume - AMEX Options
+$VOLAO
+Volume - Boston Stock Exchange
+$VOLB
+Volume - CBOE
+$VOLCO
+Volume - Midwest Stock Exchange
+$VOLM
+Volume - Pacific Stock Exchange
+$VOLP
+Volume - Pacific Stock Exchange Options
+$VOLPO
+Volume - NASDAQ NMS Equities
+$VOLQE
+Volume - NASDAQ Listed Stocks Third Market
+$VOLT
+Volume - NYSE Stock Exchange
+$VOLU
+Volume - NASDAQ OTC Bulletin Board
+$VOLUE
+Volume - Philadelphia Stock Exchange
+$VOLX
+Volume - Philadelphia Stock Exchange Options
+$VOLXO
+CBOE Emerging Market Volatility Index
+$VXEEM
+Brazil ETF Volatility Index
+$VXEWZ
+CBOE NASDAQ 100 Volatility Index
+$VXN
+AMEX Airline Index
+$XAL
+PHLX American Gold and Silver Index
+$XAU
+AMEX Securities Broker/Dealer Index
+$XBD
+AMEX Computer Technology Index
+$XCI
+PHLX Australian Dollar
+$XDA
+PHLX British Pound
+$XDB
+PHLX Canadian Dollar
+$XDC
+PHLX Euro Index
+$XDE
+PHLX Japanese Yen
+$XDN
+PHLX Swiss Franc
+$XDS
+PHLX New Zealand Dollar
+$XEO
+Euro S&P 100 Index
+$XDZ
+AMEX Institutional Index
+$XII
+AMEX Major Market 1/10 Value
+$XLT
+AMEX Major Market Index
+$XMI
+AMEX Natural Gas Index
+$XNG
+AMEX Oil and Gas Index
+$XOI
+Mini-S&P 500 PM-Settle
+$XSP
+Mini-S&P 500
+$XSPAM
+North American Telecommunications Index
+$XTC
+ISE FX Yen Index
+$YUK
